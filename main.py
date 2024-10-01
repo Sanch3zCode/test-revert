@@ -3,3 +3,6 @@ def main():
 
 def prazdnik():
     print('uraaaa!')
+
+def notify(text):
+    print(text)
